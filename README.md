@@ -21,10 +21,6 @@ print(a)
 - p06.py
 - P07.py
 - p08.py
-- p09.py
-- P010.py
-- p011.py
-- p012.py
 ### microbit程式設計
 P01.py
 - m02.py
