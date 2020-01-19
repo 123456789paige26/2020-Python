@@ -4,15 +4,13 @@
 
 ### Python程式設計
 - P01.py
-```
+```python
 a=10 
 print(a)
-print(type(a))
 
-a=20
-print(a)
 ```
 - p02.py
+
 - p03.py
 - P04.py
 - p05.py
